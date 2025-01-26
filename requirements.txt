@@ -1,0 +1,6 @@
+Flask
+requests
+groq
+mediapipe
+opencv-python
+numpy
