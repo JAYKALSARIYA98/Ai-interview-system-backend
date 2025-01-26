@@ -71,7 +71,7 @@ python main.py
 
 - The main entry point for the program is **`main.py`**.
 - Ensure that you have the necessary models and configuration files if required (e.g., for **Groq** and **Whisper**).
-
+U have to get your groq api and also create a uploads folder in side create audio folder in same directory these are temporary folder for audio and video 
 ---
 
 ## 🧠 Contributing
